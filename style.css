@@ -7,12 +7,55 @@
     margin:0 auto;
     
 }
-
 .banner_title{
-    color:#fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    }
+
+.banner-1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+
+}
+.banner-2{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+}
+.banner-3{
+    font-weight: 400px;
+    height: 60px;
+    text-align: center;
+}
+h1{
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+
+    margin: auto;
+}
+.banner-welcome {
+    background-image: url(image/Vectorrr.png);
+    width: 1300px;
     height: 600px;
-    font-size:72px ;
+    border-radius: 16px;
+    margin:0 auto;
+}
+.banner_hed{
+    color: white;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    text-align: center;
+
 }
